@@ -36,16 +36,26 @@ Projeto acadêmico de eletrônica digital voltado ao desenvolvimento de um carri
 
 # Status do Projeto
 
-## Em desenvolvimento
+## Desenvolvimento geral
 
 - [x] Definição da equipe
 - [x] Divisão das tarefas
-- [ ] Levantamento de materiais
 - [ ] Simulação do circuito
+- [ ] Levantamento de materiais
 - [ ] Montagem física
 - [ ] Integração dos módulos
 - [ ] Testes finais
-
+## Desenvolvimento Etapa 1 - 12/06
+- [ ] Desenho e impressão do chassi
+>@Kezia
+- [ ] Escolha elaboração e simulação do circuito dos motores
+>@Joel
+- [ ] Programação elaboração e simulação do circuito dos sensores
+>@Wescley
+- [ ] Elaboração e simulação dos circuitos de alimentação
+>@Italo
+- [ ] Elaboração e simulação da logica digital para a etapa 1
+>@Andre
 # Documentação
 
 A documentação técnica e diagramas serão adicionados durante o desenvolvimento do projeto.
